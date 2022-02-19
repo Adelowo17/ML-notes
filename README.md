@@ -16,7 +16,7 @@ ML配套Assignments (ppt+code)：https://github.com/Sakura-gh/ML-assignments
 
 内容包括：Regression, Classification, CNN, RNN, Explainable AI, Adversarial Attack, Network Compression, Seq2Seq, GAN, Transfer Learning, Meta Learning, Life-long Learning, Reforcement Learning. 
 
-##### pages
+##### pages.
 
 the github page is: https://Sakura-gh.github.io/ML-notes
 
